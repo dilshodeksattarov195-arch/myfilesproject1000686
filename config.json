@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperrync",
+        "uuid": 5837860,
+        "checksum": "oecay"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
